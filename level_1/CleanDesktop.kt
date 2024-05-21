@@ -1,4 +1,4 @@
-class Solution {
+class CleanDesktop {
     fun solution(wallpaper: Array<String>): IntArray {
         val map = mutableMapOf("lux" to wallpaper[0].length - 1, "luy" to -1, "rdx" to -1)
         for (i in 0 until wallpaper.size) {

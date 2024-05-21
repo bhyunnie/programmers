@@ -1,4 +1,4 @@
-class Solution {
+class WeaponOfKnight {
     fun solution(
         number: Int,
         limit: Int,

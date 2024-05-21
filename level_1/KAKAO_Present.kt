@@ -1,4 +1,4 @@
-class Solution {
+class KAKAO_Present {
     fun solution(
         friends: Array<String>,
         gifts: Array<String>,

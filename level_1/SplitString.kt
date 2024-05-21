@@ -1,4 +1,4 @@
-class Solution {
+class SplitString {
     fun solution(s: String): Int {
         var offset = 0
         var left = 0

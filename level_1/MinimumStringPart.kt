@@ -1,4 +1,4 @@
-class Solution {
+class MinimumStringPart {
     fun solution(
         t: String,
         p: String,

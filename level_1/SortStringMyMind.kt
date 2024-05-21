@@ -1,4 +1,4 @@
-class Solution {
+class SortStringMyMind {
     fun solution(
         strings: Array<String>,
         n: Int,

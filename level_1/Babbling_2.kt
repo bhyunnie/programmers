@@ -1,4 +1,4 @@
-class Solution {
+class Babbling_2 {
     fun solution(babbling: Array<String>): Int {
         var result = 0
         babbling.forEach {

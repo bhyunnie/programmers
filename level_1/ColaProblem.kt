@@ -1,4 +1,4 @@
-class Solution {
+class ColaProblem {
     fun solution(
         a: Int,
         b: Int,

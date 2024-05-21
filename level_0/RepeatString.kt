@@ -1,4 +1,4 @@
-class Solution {
+class RepeatString {
     fun solution(my_string: String, n: Int): String {
         var result = ""
         for (char in my_string) {

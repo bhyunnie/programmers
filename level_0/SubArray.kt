@@ -1,4 +1,4 @@
-class Solution {
+class SubArray {
     fun solution(
         numbers: IntArray,
         num1: Int,

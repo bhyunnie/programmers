@@ -1,4 +1,4 @@
-class Solution {
+class PhysicalUniform {
     fun solution(
         n: Int,
         lost: IntArray,

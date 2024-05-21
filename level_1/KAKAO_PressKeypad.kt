@@ -1,6 +1,6 @@
 import kotlin.math.abs
 
-class Solution {
+class KAKAO_PressKeypad {
     fun solution(
         numbers: IntArray,
         hand: String,

@@ -1,4 +1,4 @@
-class Solution {
+class MinimumSquare {
     fun solution(sizes: Array<IntArray>): Int {
         val sortedArray =
             sizes.map {

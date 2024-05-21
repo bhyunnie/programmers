@@ -1,4 +1,4 @@
-class Solution {
+class Trio {
     fun solution(number: IntArray): Int {
         var count = 0
 

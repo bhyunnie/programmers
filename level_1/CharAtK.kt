@@ -1,4 +1,4 @@
-class Solution {
+class CharAtK {
     fun solution(
         array: IntArray,
         commands: Array<IntArray>,

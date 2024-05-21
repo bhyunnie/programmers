@@ -1,4 +1,4 @@
-class Solution {
+class MakeWeirdWord {
     fun solution(s: String): String {
         return s.split(" ").toTypedArray().map {
                 word ->

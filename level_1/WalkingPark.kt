@@ -1,4 +1,4 @@
-class Solution {
+class WalkingPark {
     fun solution(
         park: Array<String>,
         routes: Array<String>,

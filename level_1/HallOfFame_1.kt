@@ -1,4 +1,4 @@
-class Solution {
+class HallOfFame_1 {
     fun solution(
         k: Int,
         score: IntArray,

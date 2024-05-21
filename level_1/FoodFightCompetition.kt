@@ -1,4 +1,4 @@
-class Solution {
+class FoodFightCompetition {
     fun solution(food: IntArray): String {
         var result: String = ""
 

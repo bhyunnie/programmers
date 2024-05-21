@@ -1,4 +1,4 @@
-class Solution {
+class FruitSeller {
     fun solution(
         k: Int,
         m: Int,

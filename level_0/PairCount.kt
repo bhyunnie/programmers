@@ -1,4 +1,4 @@
-class Solution {
+class PairCount {
     fun solution(n: Int): Int {
         var arrayList = ArrayList<Int>()
         for (i in 1..n) {

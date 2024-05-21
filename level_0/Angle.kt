@@ -1,4 +1,4 @@
-class Solution {
+class Angle {
     fun solution(angle: Int): Int {
         if(angle <= 90) {
             return angle/90 + 1

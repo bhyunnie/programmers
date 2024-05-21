@@ -1,4 +1,4 @@
-class Solution {
+class KAKAO_FailureRatio {
     fun solution(
         N: Int,
         stages: IntArray,

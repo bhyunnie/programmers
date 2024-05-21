@@ -1,4 +1,4 @@
-class Solution {
+class Lottery {
     fun solution(
         lottos: IntArray,
         win_nums: IntArray,

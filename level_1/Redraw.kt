@@ -1,4 +1,4 @@
-class Solution {
+class Redraw {
     fun solution(
         n: Int,
         m: Int,

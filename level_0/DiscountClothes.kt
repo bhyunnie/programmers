@@ -1,4 +1,4 @@
-class Solution {
+class DiscountClothes {
     fun solution(price: Int): Int {
         val dc:Double
         when {

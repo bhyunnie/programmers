@@ -1,4 +1,4 @@
-class Solution {
+class RepeatConvertBinary {
     fun solution(s: String): IntArray {
         var count = 0
         var zeroCount = 0

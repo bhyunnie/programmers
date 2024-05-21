@@ -1,4 +1,4 @@
-class Solution {
+class AverageOfArray {
     fun solution(numbers: IntArray): Double {
         var sum = 0
         for(i in 0 until numbers.size) {

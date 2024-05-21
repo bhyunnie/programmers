@@ -1,4 +1,4 @@
-class Solution {
+class KAKAO_NumStringEnglishWord {
     fun solution(s: String): Int {
         var temp = ""
         var result = arrayOf<String>()

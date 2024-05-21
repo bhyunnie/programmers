@@ -1,4 +1,4 @@
-class Solution {
+class CeaserCrypto {
     fun solution(
         s: String,
         n: Int,

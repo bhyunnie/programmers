@@ -1,4 +1,4 @@
-class Solution {
+class RunCompetition {
     fun solution(
         players: Array<String>,
         callings: Array<String>,

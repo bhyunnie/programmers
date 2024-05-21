@@ -1,4 +1,4 @@
-class Solution {
+class MostNearChar {
     fun solution(s: String): IntArray {
         val newMap: MutableMap<String, Int> = mutableMapOf()
         val result =

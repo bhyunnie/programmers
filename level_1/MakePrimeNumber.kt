@@ -1,4 +1,4 @@
-class Solution {
+class MakePrimeNumber {
     fun solution(nums: IntArray): Int {
         var result = 0
         for (i in 0 until nums.size - 2) {

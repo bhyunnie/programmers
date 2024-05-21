@@ -1,4 +1,4 @@
-class Solution {
+class MockingTest {
     fun solution(answers: IntArray): IntArray {
         val patterns =
             arrayOf(

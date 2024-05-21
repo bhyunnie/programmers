@@ -1,4 +1,4 @@
-class Solution {
+class LocationOfPoint {
     fun solution(dot: IntArray): Int {
         val x = dot[0]
         val y = dot[1]

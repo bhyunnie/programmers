@@ -1,4 +1,4 @@
-class Solution {
+class CardDeck {
     fun solution(
         cards1: Array<String>,
         cards2: Array<String>,

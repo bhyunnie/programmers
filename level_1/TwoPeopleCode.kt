@@ -1,4 +1,4 @@
-class Solution {
+class TwoPeopleCode {
     fun solution(
         s: String,
         skip: String,

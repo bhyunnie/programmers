@@ -1,4 +1,4 @@
-class Solution {
+class MemorialScore {
     fun solution(
         name: Array<String>,
         yearning: IntArray,

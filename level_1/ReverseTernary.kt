@@ -1,4 +1,4 @@
-class Solution {
+class ReverseTernary {
     fun solution(n: Int): Int {
         if (n == 0) return 0
         var num = n

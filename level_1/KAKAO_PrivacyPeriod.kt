@@ -1,4 +1,4 @@
-class Solution {
+class KAKAO_PrivacyPeriod {
     fun solution(
         today: String,
         terms: Array<String>,

@@ -1,4 +1,4 @@
-class Solution {
+class MakeHamburger {
     fun solution(ingredient: IntArray): Int {
         var burgerCount = 0
         val curBurger = StringBuilder()

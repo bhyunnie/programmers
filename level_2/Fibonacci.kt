@@ -1,4 +1,4 @@
-class Solution {
+class Fibonacci {
     fun solution(n: Int): Int {
         val pibo = mutableMapOf(0 to 0, 1 to 1)
 
