@@ -1,4 +1,4 @@
-class Solution {
+class Tournament {
     fun solution(n: Int, a: Int, b: Int): Int {
         val altc = a > n/2
         val bltc = b > n/2
